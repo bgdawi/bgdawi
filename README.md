@@ -9,3 +9,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/brian-dawi/)
 
+# 📓BLOG
+
+- [Blog](https://bgdawi.github.io/github-pages/)
