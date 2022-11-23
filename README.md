@@ -1,9 +1,11 @@
 # 👋Hello! My Name is Brian 
 
-Welcome to my github
-I am just getting started!
+- 🔨 Working on my Profile 
+- 🔨 Working on my Blog page 
+- 🤓 Insterested in cloud and system administration 
+
 
 # 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/brian-dawi/)
+- [LinkedIn](https://www.linkedin.com/in/brian-dawi/)
 
