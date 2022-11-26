@@ -11,4 +11,4 @@
 
 # 📓BLOG
 
-- [Blog](https://bgdawi.github.io/bgeezy/)
+- [Blog](https://bgdawi.github.io/)
